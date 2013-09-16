@@ -17,7 +17,7 @@ for (int i = 0; i < str.length(); ++i){
       if(str=="ADAM"){
        ID=10236;
        }
-        else if(str=="GRANT"){
+        else if(str=="WEAVER"){
         ID=92365;} 
         else{  cout<<"Sorry no such customer exists";
           return 0;
